@@ -4,7 +4,7 @@ kodluyoruz Front-End Eğitimi Kapsamında açtığım İlk Repo
 # Installation
 
 '''
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/Brkltn/kodluyoruzilkrepo.git
 '''
 
 # Usage
